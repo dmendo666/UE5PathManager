@@ -1,0 +1,39 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "WebSocket Python Server",
+    "Description": "Plugin para levantar un servidor WebSocket con Python al inicio de Unreal Engine",
+    "Category": "Developer Tools",
+    "CreatedBy": "Tu Nombre",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "EnabledByDefault": true,
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [],
+    "Plugins": [
+        {
+            "Name": "PythonScriptPlugin",
+            "Enabled": true
+        },
+        {
+            "Name": "EditorScriptingUtilities", 
+            "Enabled": true
+        }
+    ],
+    "PythonRequirements": {
+    "PackageDependencies": [
+      {
+        "PackageName": "websockets"
+      },
+      {
+        "PackageName": "asyncio"
+      }
+    ]
+  }
+}
