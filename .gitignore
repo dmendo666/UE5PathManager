@@ -22,3 +22,5 @@ Content/models/container/Opaque_202_209_238__001.uasset
 Content/models/container/
 Content/models/muebles/
 Content/models/puertas/
+*.htm
+*.log
