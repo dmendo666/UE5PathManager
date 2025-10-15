@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 .vscode
+.vsconfig
 .vs
 *.VC.db
 *.opensdf
@@ -12,6 +13,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Python/
 Content/StarterContent/
 Content/models/definicion_ventanas/
 Content/models/ground_exterior/
