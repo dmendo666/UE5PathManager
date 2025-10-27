@@ -17,5 +17,9 @@ Content/Python/
 Content/StarterContent/
 Content/models/*
 Content/ControlPerspectiva/*
+Content/maps/*
+Source/*
+Plugins/*
 *.htm
 *.log
+*.uproject
